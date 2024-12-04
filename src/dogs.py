@@ -5,6 +5,8 @@ from streamlit_echarts import st_echarts
 import statsmodels.api as sm
 from scipy.stats import pearsonr
 import numpy as np
+import os
+
 
 # Load dataset
 # df = pd.read_csv('/Users/shaynaguilfoyle/Final349/DogDataAnalysis/Dog Breads Around The World.csv')

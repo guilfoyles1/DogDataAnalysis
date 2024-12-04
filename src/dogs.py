@@ -7,7 +7,11 @@ from scipy.stats import pearsonr
 import numpy as np
 
 # Load dataset
-df = pd.read_csv('data/Dog Breads Around The World.csv')
+# df = pd.read_csv('/Users/shaynaguilfoyle/Final349/DogDataAnalysis/Dog Breads Around The World.csv')
+
+# Use a relative path to point to the dataset
+df_path = os.path.join("data", "Dog Breeds Around The World.csv")
+df = pd.read_csv(df_path)
 
 # Sidebar filters
 st.sidebar.header('Filter Options')

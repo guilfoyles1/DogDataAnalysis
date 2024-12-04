@@ -7,7 +7,7 @@ from scipy.stats import pearsonr
 import numpy as np
 
 # Load dataset
-df = pd.read_csv('/Users/shaynaguilfoyle/Final349/Dog Breads Around The World.csv')
+df = pd.read_csv('/Users/shaynaguilfoyle/Final349/DogDataAnalysis')
 
 # Sidebar filters
 st.sidebar.header('Filter Options')

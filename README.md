@@ -97,10 +97,6 @@ pip install -r requirements.txt
 - The dataset file (`Dog Breeds Around The World.csv`) should be placed in the appropriate directory (`data/`), or you can modify the path in the script to match your setup.
 - Ensure that you have the correct version of the libraries as per the requirements.
 
-## Contributions
-
-Feel free to fork the repository, open issues, or create pull requests if you'd like to improve this project. Contributions are welcome!
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).

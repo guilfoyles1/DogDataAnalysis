@@ -103,5 +103,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have questions or suggestions, please reach out to Shayna at [[guilfoyles1@udayton.edu](mailto\:guilfoyles1@udayton.edu].
+If you have questions or suggestions, please reach out to Shayna at [guilfoyles1@udayton.edu](mailto\:guilfoyles1@udayton.edu).
 
